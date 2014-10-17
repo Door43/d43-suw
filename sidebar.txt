@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[suw:home|Door43 (suw)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-suw|d43-suw repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-suw/archive/master.zip|d43-suw.zip]]
+
+**Recent Changes**
+{{changes>ns = suw}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/suw|Ethnologue data]]
+
